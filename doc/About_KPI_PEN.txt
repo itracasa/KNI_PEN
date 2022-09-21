@@ -1,0 +1,56 @@
+# KPI PEN
+ 
+KPI PEN (KPIS for a Building Energy Management Platform)
+Copyright (C) <2022>  <TRACASA  and UTE i3i/Larraby
+ 
+Código fuente para KPI's - Indicadores clave para utilizados por la Plataforma de Gestión Energética de Vivienda Social (NASUVINSA) https://www.nasuvinsa.es/
+ 
+Source Code for KPIs - Key Perfomance Indicators used by a Building Energy Management Platform for Social Housing in NAVARRA, managed by NASUVINSA https://www.nasuvinsa.es/
+ 
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. 
+ 
+You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ 
+ 
+### About the KPIs
+ 
+El software licenciado comprende los siguientes indicadores claves (KPIs):
+ 
+- Autonomía de silo de astillas del edificio, que proporciona unas gráficas y valores % de autonomía del silo de astilla que alimenta las calderas de biomasa de los edificios de NASUVINSA.
+ 
+- Disconfort en vivienda, que genera alarmas para cada una de las viviendas monitorizadas de NASUVINSA en función del % de horas en los últimos 7 días en las que dichas viviendas se encuentran fuera de los criterios de 
+confort previamente establecidos (Tª, Humedad Relativa y Concentración CO2).
+ 
+- Reducción anual de energía consumida por el edificio, mediante la comparación del consumo real por meses de cada edificio de NASUVINSA frente al consumo teórico de un edificio similar proyectado según criterios del Código Técnico de la Edificación CTE-2019.
+ 
+- Reducción anual de emisiones CO2 por el edificio__, a partir de la diferencia entre las emisiones reales del edificio y las emisiones teóricas según un edificio que siguiera criterios CTE-2019 y solo usara gas natural como fuente de energía.
+ 
+Puede distribuirlo y/o modificarlo bajo los términos de la GNU Affero General Public License v3 publicada por la Free Software Foundation disponible en https://www.gnu.org/licenses/agpl-3.0.html
+ 
+Este código se publica con el ánimo de que sea útil, pero sin ninguna garantía o responsabilidad de ningún tipo por parte de los autores. Vea la licencia completa para más detalles.
+ 
+Código desarrollado por TRACASA Instrumental https://itracasa.es/ en colaboración con la unión de empresas Larraby-I3i http://larraby.com/ - https://www.i3i.es/. 
+ 
+El Código se ha desarrollado para NASUVINSA https://www.nasuvinsa.es/
+ 
+El desarrollo de este Software para NASUVINSA, ha contado con la ayuda económica y técnica del Proyecto Europeo H2020 STARDUST “Holistic and integrated urban model for Samrt Cities”,
+ acuerdo de subvención nº 774094. https://ec.europa.eu/inea/en/horizon-2020/projects/h2020-energy/smart-cities-communities/stardust
+ 
+### About the PEN (NASUVINSA Building Energy Management Platform)
+ 
+NASUVINSA ha desarrollado su propia Plataforma de Gestión Energética, implementando solamente elementos de Software Libre, con la colaboración de las siguientes empresas públicas y privadas desempeñando los siguientes roles:
+ 
+- NASUVINSA – Promotor del Sistema, Usuario Final, Técnicos Expertos Funcionales KPIs (Gestión Energetica).
+- ENDEF – Product Owner, Requisitos Funcionales y Test Usuario.
+- TRACASA – Gestión Proyecto.
+- i3i  - Larraby – Equipo Desarrollo. Definición de la Arquitectura Técnica de la Solución, Diseño Técnico, Construcción, Test y puesta en producción del Sistema.
+- NASERTIC – Servicios de Infraestructura, hosting._
+ 
+Dicha Plataforma, realiza funciones de monitorización y control de los edificios, y sus viviendas, del parque residencial de NASUVINSA, tanto de nueva construcción como rehabilitados, tratándose de un sistema centralizado que comunica con el PLC/autómata de cada edificio.
+ 
+Esta Plataforma posibilita la gestión energética del parque público, permite el registro de datos fiables, muestra indicadores energéticos a nivel edificio y vivienda, detecta usos energéticos inadecuados y facilita el mantenimiento tanto de los edificios en conjunto como de las propias viviendas.
+ 
+El desarrollo de esta Herramienta Software ha contado con la ayuda económica y técnica del Proyecto Europeo H2020 STARDUST “Holistic and integrated urban model for Samrt Cities”, acuerdo de subvención nº 774094. https://ec.europa.eu/inea/en/horizon-2020/projects/h2020-energy/smart-cities-communities/stardust
+ 
