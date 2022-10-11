@@ -9,7 +9,7 @@ Código fuente para KPI's - Indicadores clave para utilizados por la Plataforma 
  
 Source Code for KPIs - Key Performance Indicators used by a Building Energy Management Platform for Social Housing in NAVARRA, managed by NASUVINSA https://www.nasuvinsa.es/
  
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, GPLv3, Version 3, 29 June 2007.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License, GPLv3, Version 3, 29 June 2007.
  
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. 
  
